@@ -6,6 +6,6 @@ package com.mycompany.applikasikasirsederhana;
 public class ApplikasiKasirSederhana {
 
     public static void main(String[] args) {
-        System.out.println("Hello Bitch!!");
+        System.out.println("runa tampan!!");
     }
 }
